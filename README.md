@@ -50,7 +50,11 @@ pip install -r requirements.txt
 ```sh
 python main.py
 ```
-
+### 6. Admin Credentials
+```sh
+user id: admin@test.com
+password: admin
+```
 Your app should now be running at `http://127.0.0.1:5000/`.
 
 ### 6. Deactivating the Virtual Environment
