@@ -15,7 +15,6 @@
     {
       "src": "/(.*)",
       "dest": "main.py"
-      "maxDuration": 15
     }
   ]
 }
